@@ -16,7 +16,7 @@ To get started with the Todo app, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/rahul-754/todo-app.git
 
 
 # Install dependencies:
